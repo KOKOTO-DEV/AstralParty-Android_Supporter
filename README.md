@@ -2,9 +2,14 @@
 
 CharacterSelect와 SimpleStats를 같은 게임 런타임에 넣은 Android용 패치입니다. 
 
-<img width="1280" height="576" alt="photo_2026-11-17_20-05-51" src="https://github.com/user-attachments/assets/9550a87b-2536-4db3-83a4-d80c1ca06a4b" />
-<img width="544" height="465" alt="photo_2026-11-17_20-06-26" src="https://github.com/user-attachments/assets/ac70e92a-e336-4ba5-a419-913344221a17" />
-<img width="1280" height="576" alt="photo_2026-11-17_20-06-06" src="https://github.com/user-attachments/assets/b1a9ca65-6d11-468a-954c-3a84ae9cde2d" />
+<img width="1280" height="576" alt="photo_2026-11-17_20-05-51" src="https://github.com/user-attachments/assets/9550a87b-2536-4db3-83a4-d80c1ca06a4b" /><br />
+캐릭터 상세보기에서 자리 및 역할 설정.
+
+<img width="544" height="465" alt="photo_2026-11-17_20-06-26" src="https://github.com/user-attachments/assets/ac70e92a-e336-4ba5-a419-913344221a17" /><br />
+대기실 및 캐릭터 선택 중 유저정보 표시 및 탈출 가능.
+
+<img width="1280" height="576" alt="photo_2026-11-17_20-06-06" src="https://github.com/user-attachments/assets/b1a9ca65-6d11-468a-954c-3a84ae9cde2d" /><br />
+캐릭터 선택 정렬 및 랜덤 선택 가능.
 
 - 캐릭터 선택 화면에 P1 카드 왼쪽에 P1·P2·P3·P4·Random·정렬, P4 카드 오른쪽에 Dealer·Support·Card·Tank를 세로로 배치합니다. 정렬 버튼으로 자리순, 역할순, 기본 순서를 차례로 전환합니다. 기본은 게임이 제공한 순서입니다. 랜덤 선택은 게임의 기본 선택 동작을 호출하며 확정 버튼은 누르지 않습니다.
 - 대기실과 캐릭터 선택 화면에서 방 참가자의 승률·좋아요·매너와 공개된 최근 전적 요약을 표시합니다.
